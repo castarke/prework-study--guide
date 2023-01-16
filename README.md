@@ -5,12 +5,19 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+
     The motivation was to learn how to build a website using HTML, CSS, Git, and Javascript
+
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+
     To gain experience coding and work around my computer in new ways.
+
 - What problem does it solve?
+
     It helps speed up the process of creating a website from scratch, while editing the website offline before it goes live in real time.
+
 - What did you learn?
+
     I learned completely new processes and foundations with GIT and Javascript. I have worked slightly with HTML and CSS. I've also learned how to nagivigate through Terminal. 
 
 ## Installation
