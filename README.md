@@ -18,7 +18,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What did you learn?
 
-    I learned completely new processes and foundations with GIT and Javascript. I have worked slightly with HTML and CSS. I've also learned how to nagivigate through Terminal. 
+     I learned completely new processes and foundations with GIT and Javascript. I have worked slightly with HTML and CSS. I've also learned how to nagivigate through Terminal. 
 
 ## Installation
 
@@ -26,7 +26,7 @@ N/A
 
 ## Usage
 
-The Prework Study Guide can be used to review code such as: HTML, CSS, and Javascript in the DevTools Console. This Prework Study Guide was created using GIT in Terminal. You can find some of the common git commands under the git heading. 
+The Prework Study Guide can be used to review code such as: HTML, CSS, and Javascript in the DevTools Console. This Prework Study Guide was created using GIT in Terminal alog with HTML, CSS, and Javascript. You can find some of the common git commands under the git heading. 
 ## Credits
 
 N/A
